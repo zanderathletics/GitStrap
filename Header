@@ -6,12 +6,12 @@
         <div class="col-md-6">
 
         <p class="text-center" style="color: green;">
-            Free Consultation (973) 715-6478
+            Free Consultation <span style="display: inline-block; white-space: nowrap;">(973) 715-6478</span>
         </p>
 
         <hr>
 
-        <blockquote style="font-style: italic;">
+        <blockquote class="text-center" style="font-style: italic;">
         <p style="font-size: 200%;">
             "Know thyself."
         </p>
