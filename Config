@@ -12,7 +12,7 @@ browser tab.
 This setup uses the following:
 
 ```
->GitStrap
+>Fitness by Alexander
 ```
  
 ## Pages / Navigation
@@ -27,7 +27,7 @@ what shows up on the navigation tab.
 This setup uses the following:
 
 ```
->Readme.md Config Header Footer Example
+>Home Services About Testimonials Contact
 ```
 
 ## Theme
@@ -40,7 +40,7 @@ Put the theme name or url from [bootswatch](https://www.bootstrapcdn.com/bootswa
 This setup uses the following:
 
 ```
->journal
+>slate
 ```
 
 ## Header
