@@ -59,7 +59,7 @@ header text set this option to false.
 This setup uses the following:
 
 ```
->Header
+>false
 ```
 
 ## Footer
